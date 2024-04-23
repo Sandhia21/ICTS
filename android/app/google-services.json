@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677005382014",
+    "project_id": "icts-3b67c",
+    "storage_bucket": "icts-3b67c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677005382014:android:9b389927025af63b8b232f",
+        "android_client_info": {
+          "package_name": "com.example.icts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW0PrPLqB_eCpEb_Voh0V_KW7849uE9no"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
